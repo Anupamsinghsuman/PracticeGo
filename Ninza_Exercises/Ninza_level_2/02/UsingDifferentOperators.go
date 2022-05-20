@@ -9,4 +9,5 @@ func main() {
 	d := (42 != 46)
 
 	fmt.Println(a, b, c, d)
+	fmt.Println(a, b)
 }
